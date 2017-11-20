@@ -1,6 +1,6 @@
 # php-issues
-  Ali cloud project to solve the online process, access to the database through PHP, error analysis
-  Accessing database through PHP
+ Ali cloud project to solve the online process, access to the database through PHP, error analysis
+ Accessing database through PHP
   error：PHP Fatal error: Call to undefined method mysqli::mysqli_fetch_all();
   Source code：
 <?php
